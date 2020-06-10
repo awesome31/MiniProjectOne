@@ -11,16 +11,16 @@ Created a react-native project that has 3 screens: Login Screen, Signup Screen a
 
 ## Splash Screen
 
-![Alt text](./assets/Four.png?raw=true 'Title')
+<img src="./assets/Four.png" width="200">
 
 ## Login Screen
 
-![Alt text](./assets/Two.png?raw=true 'Title')
+<img src="./assets/Two.png" width="200">
 
 ## Signup Screen
 
-![Alt text](./assets/Three.png?raw=true 'Title')
+<img src="./assets/Three.png" width="200">
 
 ## Signup Screen with validation
 
-![Alt text](./assets/One.png?raw=true 'Title')
+<img src="./assets/One.png" width="200">
